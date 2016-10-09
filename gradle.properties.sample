@@ -1,0 +1,4 @@
+apiHost=https://api.example.com:8443
+apiKey=mysecretapikey
+apiSecureDomain=api.example.com
+apiSecurePin=sha1/...=

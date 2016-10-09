@@ -1,0 +1,12 @@
+# Project Specific
+gradle.properties
+
+# Android
+local.properties
+build/
+.gradle/
+.idea/
+*.iml
+
+# OS Specific
+.DS_Store
